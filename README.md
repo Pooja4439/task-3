@@ -1,2 +1,1 @@
-# task-3
-mern project
+# Getting Started with Create React App
